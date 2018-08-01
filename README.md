@@ -3,7 +3,7 @@
 
 # 课程准备：
 笔记本电脑；安卓手机或平板。  
-课程软件；Git、Notepad++、Python、Android Studio 
+课程软件；Git-GUI、Notepad++、Python 3.6+、Android Studio 3.3+  
 课程硬件：网线、PYNQ、JetsonKit TX1；  
 
 # 课程内容：
