@@ -1,11 +1,12 @@
 # Smart-Things-TensorFlow-Practice
-[智能硬件TensorFlow实践] (https://item.jd.com/12400108.html)
+[智能硬件TensorFlow实践](https://item.jd.com/12400108.html)
 
 课程准备：笔记本电脑；网线；
 课程软件安装；Git、Notepad++、Python、Android Studio
 
 #课程内容
 
+`>`
 第1章 人工/机器智能的发展	
 1.1. 人工/机器智能	
 1.1.1 人工/机器智能的定义	
