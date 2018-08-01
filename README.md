@@ -124,6 +124,9 @@
 8.3.3 传送云端	
 参考文献	
 
+<html> // Tab开头
+    <title>Markdown</title>
+
 第9章  TX1对象检测	
  9.1 英伟达Jetson TX1	
  9.2 YOLO算法	
@@ -134,6 +137,7 @@
  9.3.1 SSD算法介绍	
  9.3.2 SSD的TX1实践	
 参考文献	
+</html>
 
 #参考书 
 陈震，郑文勋，[智能硬件TensorFlow实践](https://item.jd.com/12400108.html)，清华大学出版社，2018年7月. 
