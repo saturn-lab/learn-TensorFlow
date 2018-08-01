@@ -6,7 +6,7 @@
 课程软件；Git、Notepad++、Python、Android Studio 
 课程硬件：网线、PYNQ、JetsonKit TX1；  
 
-# 课程内容
+# 课程内容：
 
 # 第1章 人工/机器智能的发展  
 1.1 人工/机器智能  
