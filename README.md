@@ -1,6 +1,6 @@
 # Make Smart Things with TensorFlow Practice
 # 智能硬件TensorFlow实践
-# 参考书： 陈震、郑文勋，[智能硬件TensorFlow实践](https://item.jd.com/12400108.html)，清华大学出版社，2018年7月.
+参考书： 陈震、郑文勋，[智能硬件TensorFlow实践](https://item.jd.com/12400108.html)，清华大学出版社，2018年7月.
 
 # 课程准备：
 笔记本电脑；安卓手机或平板。  
