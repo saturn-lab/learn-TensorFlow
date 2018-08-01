@@ -1,6 +1,11 @@
-# Make Smart Things with TensorFlow Practice
-# 智能硬件TensorFlow实践
-参考书： 陈震、郑文勋，[智能硬件TensorFlow实践](https://item.jd.com/12400108.html)，清华大学出版社，2018年7月.
+# Make Smart Things with TensorFlow Practice （智能硬件TensorFlow实践）
+
+# 清华iCenter课程
+
+《智能硬件与智能系统》（No.01510202）  
+《大数据与机器智能》 （No.01510243）  
+
+参考教材： 陈震、郑文勋，[智能硬件TensorFlow实践](https://item.jd.com/12400108.html)，清华大学出版社，2018年7月.
 
 # 课程准备：
 笔记本电脑；安卓手机或平板。  
@@ -140,4 +145,6 @@
 
 
 # 参考书 
-陈震，郑文勋，[智能硬件TensorFlow实践](https://item.jd.com/12400108.html)，清华大学出版社，2018年7月. 
+1. Goodfellow I, Bengio Y, Courville A, Bengio Y. Deep learning (Adaptive Computation and Machine Learning). Cambridge: MIT press; 2016 Nov 18.
+2. 中文版：[深度学习(deep learning)](https://item.jd.com/11933855.html)，人民邮电出版社，2017年8月.
+
