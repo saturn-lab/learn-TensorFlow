@@ -1,8 +1,10 @@
-# Smart-Things-TensorFlow-Practice
+# Make Smart Things with TensorFlow Practice
 [智能硬件TensorFlow实践](https://item.jd.com/12400108.html)
 
-课程准备：笔记本电脑；网线；
-课程软件安装；Git、Notepad++、Python、Android Studio
+# 课程准备：
+笔记本电脑；安卓手机或平板。  
+课程软件；Git、Notepad++、Python、Android Studio 
+课程硬件：网线、PYNQ、JetsonKit TX1；  
 
 # 课程内容
 
