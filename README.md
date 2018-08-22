@@ -1,4 +1,4 @@
-# Make Smart Things with TensorFlow Practice （智能硬件TensorFlow实践）
+# Make Smart Things with TensorFlow （智能硬件TensorFlow实践）
 
 # 清华iCenter课程
 
