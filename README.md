@@ -1,16 +1,4 @@
-# Make Smart Things with TensorFlow （智能硬件TensorFlow实践）
-
-# 清华iCenter课程
-
-《智能硬件与智能系统》（No.01510202）  
-《大数据与机器智能》 （No.01510243）  
-
-参考教材： 陈震、郑文勋，[智能硬件TensorFlow实践](https://item.jd.com/12400108.html)，清华大学出版社，2018年7月.
-
-# 课程准备：
-笔记本电脑；安卓手机或平板。  
-课程软件；Git-GUI、Notepad++、Python 3.6+、Android Studio 3.3+  
-课程硬件：网线、PYNQ、JetsonKit TX1；  
+# Make Smart Things with TensorFlow 
 
 # 课程内容：
 
