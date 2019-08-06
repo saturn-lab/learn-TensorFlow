@@ -28,7 +28,7 @@ http://gitlab.icenter.tsinghua.edu.cn
 
 ## Markdown使用 
 
-学习日志撰写（一位同学负责学习日志撰写）
+学习日志撰写（如果分组，一位同学负责学习日志撰写）
 
 *markdown语法
 
@@ -42,12 +42,18 @@ http://www.typora.io
 
 ## Graphviz使用
 
-院系结构图、家谱图\结构图等等
-
-*DOT语法
-https://www.graphviz.org/doc/info/lang.html
-
 *Graphviz
-https://dreampuf.github.io/GraphvizOnline/
 
-https://graphviz.readthedocs.io
+安装graphviz软件：
+ https://graphviz.gitlab.io/download/
+
+文档和使用说明参见：
+ https://graphviz.readthedocs.io
+
+安装python的graphviz包
+ pip install graphviz 
+
+这是可以在jupyter notebook中使用graphviz了。
+
+或者在线写DOT， 在线渲染图片，参见：
+ https://dreampuf.github.io/GraphvizOnline/
