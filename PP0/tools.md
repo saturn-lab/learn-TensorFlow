@@ -41,6 +41,11 @@ http://www.typora.io
 提交学习日志到 gitlab （提交至gitlab）
 
 ## Graphviz使用
+院系结构图、家谱图\结构图等等
+
+*DOT语法
+
+https://www.graphviz.org/doc/info/lang.html
 
 *Graphviz
 
