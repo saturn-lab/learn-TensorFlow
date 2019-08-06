@@ -55,7 +55,7 @@ https://www.graphviz.org/doc/info/lang.html
 文档和使用说明参见：
  https://graphviz.readthedocs.io
 
-安装python的graphviz包
+安装python的graphviz包：
  pip install graphviz 
 
 这是可以在jupyter notebook中使用graphviz了。
