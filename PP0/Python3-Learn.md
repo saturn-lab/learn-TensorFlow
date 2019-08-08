@@ -10,8 +10,7 @@
 # pip安装python包
 大多数Python 包都使用pip 实用工具安装。
 
-$ pip install flask
-手动安装pip，安装方法参见pip 的网站： https://pip.pypa.io/en/latest/installing/
+$ pip install jupyter notebook 
 
 文件读取：csv（pandas库），图片（pilllow库），其他（字符串处理）
 
